@@ -19,7 +19,7 @@
 
 ```css
 /* latte */
-@import url("https://catppuccin.github.io/youtubemusic/src/rosepine.css");
+@import url("https://raw.githubusercontent.com/duckyondiscord/youtubemusic-rosepine/main/src/rosepine.css");
 
 /* if you want to change the accent color, paste this in aswell and change the hex code - or use one of the predefined colors with var(--ctp-'color') - e.g. var(--ctp-maroon) */
 html:not(.style-scope) {

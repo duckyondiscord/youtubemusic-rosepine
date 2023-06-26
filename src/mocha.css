@@ -1,23 +1,23 @@
 html:not(.style-scope)
 {
-  --ctp-rosewater: #f5e0dc;
-  --ctp-flamingo: #f2cdcd;
-  --ctp-pink: #f5c2e7;
-  --ctp-mauve: #cba6f7;
-  --ctp-red: #f38ba8;
+  --ctp-rosewater: #ebbcba;
+  --ctp-flamingo: #ebbcba;
+  --ctp-pink: #eb6f92;
+  --ctp-mauve: #c4a7e7;
+  --ctp-red: #eb6f92;
   --ctp-maroon: #eba0ac;
-  --ctp-peach: #fab387;
-  --ctp-yellow: #f9e2af;
-  --ctp-green: #a6e3a1;
-  --ctp-teal: #94e2d5;
-  --ctp-sky: #89dceb;
+  --ctp-peach: #ebbcba;
+  --ctp-yellow: #f6c177;
+  --ctp-green: #9ccfd8;
+  --ctp-teal: #31748f;
+  --ctp-sky: #31748f;
   --ctp-sapphire: #74c7ec;
-  --ctp-blue: #89b4fa;
-  --ctp-lavender: #b4befe;
-  --ctp-text: #cdd6f4;
-  --ctp-base: #1e1e2e;
-  --ctp-mantle: #181825;
-  --ctp-crust: #11111b;
+  --ctp-blue: #31748f;
+  --ctp-lavender: #c4a7e7;
+  --ctp-text: #e0def4;
+  --ctp-base: #191724;
+  --ctp-mantle: #403d52;
+  --ctp-crust: #21202e;
 
   --ctp-accent: var(--ctp-mauve);
 

@@ -45,7 +45,7 @@ body
 
 ytmusic-nav-bar
 {
-  background: var(--ctp-mantle) !important;
+  background: var(--ctp-crust) !important;
 }
 
 .yt-simple-endpoint[aria-label="Home"]
@@ -144,7 +144,7 @@ yt-formatted-string.duration.style-scope.ytmusic-player-queue-item
 
 ytmusic-player-bar
 {
-  background: var(--ctp-mantle) !important;
+  background: var(--ctp-crust) !important;
 }
 
 #progress-bar.ytmusic-player-bar

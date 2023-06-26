@@ -5,7 +5,7 @@
 ## Usage
 ### [Youtube Music Desktop App (th-ch)](https://github.com/th-ch/youtube-music)
 
-1. Create a new css file with the contents below.
+1. Create a new css file with the contents in src/rosepine.css and optionally paste in the code below too.
 2. Assuming you have the latest build with the theme selection menu, open the app, click `Options > Visual Tweaks > Theme > Import custom CSS file`, and choose the CSS file.
 
 ### [Youtube Music Desktop App (ytmdesktop)](https://github.com/ytmdesktop/ytmdesktop)
@@ -13,14 +13,12 @@
 1. Navigate to the settings of the Youtube Music Desktop App.
 2. Go to the appearances tab and turn on custom theme.
 3. Click on the pencil icon to open up the editor window.
-4. Paste in the flavour import for your flavour and press the save button.
+4. Paste in src/rosepine.css and optionally the code below.
 
 ### The code
 
-```css
-/* latte */
-@import url("https://raw.githubusercontent.com/duckyondiscord/youtubemusic-rosepine/main/src/rosepine.css");
 
+```css
 /* if you want to change the accent color, paste this in aswell and change the hex code - or use one of the predefined colors with var(--ctp-'color') - e.g. var(--ctp-maroon) */
 html:not(.style-scope) {
     --ctp-accent: #eb6f92 !important;
